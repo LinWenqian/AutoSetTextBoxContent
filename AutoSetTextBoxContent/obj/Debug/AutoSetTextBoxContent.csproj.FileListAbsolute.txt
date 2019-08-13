@@ -1,0 +1,6 @@
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\bin\Debug\AutoSetTextBoxContent.exe.config
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\bin\Debug\AutoSetTextBoxContent.exe
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\bin\Debug\AutoSetTextBoxContent.pdb
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\obj\Debug\AutoSetTextBoxContent.exe
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\obj\Debug\AutoSetTextBoxContent.pdb
+E:\Work\code\CShorpCode\TestWinform\AutoSetTextBoxContent\obj\Debug\AutoSetTextBoxContent.csprojResolveAssemblyReference.cache

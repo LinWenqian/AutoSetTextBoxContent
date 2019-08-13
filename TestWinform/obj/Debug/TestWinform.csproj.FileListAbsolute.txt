@@ -1,0 +1,13 @@
+E:\Work\code\CShorpCode\TestWinform\TestWinform\bin\Debug\TestWinform.exe.config
+E:\Work\code\CShorpCode\TestWinform\TestWinform\bin\Debug\TestWinform.exe
+E:\Work\code\CShorpCode\TestWinform\TestWinform\bin\Debug\TestWinform.pdb
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.csprojResolveAssemblyReference.cache
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.Form1.resources
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.Properties.Resources.resources
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.csproj.GenerateResource.Cache
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.exe
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.pdb
+E:\Work\code\CShorpCode\TestWinform\TestWinform\bin\Debug\TestWinform.exe.manifest
+E:\Work\code\CShorpCode\TestWinform\TestWinform\bin\Debug\TestWinform.application
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.exe.manifest
+E:\Work\code\CShorpCode\TestWinform\TestWinform\obj\Debug\TestWinform.application
